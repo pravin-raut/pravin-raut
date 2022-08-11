@@ -10,5 +10,7 @@ I am data engineer by profession and a data enthusiast at heart.
 - 💬 Ask me about Data
 - 📫 How to reach me: Linkedin : https://www.linkedin.com/in/pravinraut/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![alt text](http://https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg)
+
+
 
