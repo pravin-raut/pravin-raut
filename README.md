@@ -11,7 +11,7 @@
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/Informatica.jpg)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/SqlServer.png)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/Teradata.png)
-![alt text](https://github.com/raut1606/raut1606/blob/Master/Hive.jpg)
+![alt text](https://github.com/raut1606/raut1606/blob/Master/Hive.png)
 # 🌱 I’m currently learning /exploring
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/Airflow.png)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/Kafka.png)
