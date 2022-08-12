@@ -10,7 +10,7 @@ I am data engineer by profession and a data enthusiast at heart.
 - 💬 Ask me about Data
 - 📫 How to reach me: Linkedin : https://www.linkedin.com/in/pravinraut/
 - 😄 Pronouns: ...
-![alt text](http://https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg)
-
+![alt text](https://github.com/raut1606/raut1606/blob/Master/apache-spark-logo-E141C92C3E-seeklogo.com.jpg)
+![alt text](https://github.com/raut1606/raut1606/blob/Master/informatica-logo-00A09D18FB-seeklogo.com.jpg)
 
 
