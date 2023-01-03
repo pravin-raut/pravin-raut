@@ -12,12 +12,12 @@
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/SqlServer.png)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/Teradata.png)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/PowerBI.png)
+![alt text](https://github.com/raut1606/raut1606/blob/Master/GoogleCLoud.png)
 # 🌱 I’m currently learning /exploring
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/Airflow.png)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/Kafka.png)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/Scala.png)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/AWS.svg)
-![alt text](https://github.com/raut1606/raut1606/blob/Master/GoogleCLoud.png)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/Snowflake.png)
 ## 👯 I’m looking to collaborate on anything around data
 ## 🤔 I’m looking for part-time/freelancing work in Data World.
