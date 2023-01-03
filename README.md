@@ -20,7 +20,7 @@
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/AWS.svg)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/Snowflake.png)
 ## 👯 I’m looking to collaborate on anything around data
-## 🤔 I’m looking for part-time/freelancing work in Data World.
+## 🤔 I’m looking for exciting job in Data World.
 ## 💬 Ask me anyhing anything around data 
 ## 📫 How to reach me: 
     Email : praut1606@gmail.com
