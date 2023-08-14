@@ -21,23 +21,23 @@
 
 # Projects 
 ## Machine Learning
-•   Visceral Class Classification: Naïve Bayes| Decision Tree| KNN | NLP Code 
+•   [Visceral Class Classification](https://github.com/pravin-raut/MachineLearning/blob/Master/Classification/VisceralFatClassification.ipynb) : Naïve Bayes| Decision Tree| KNN | NLP Code 
 
-•   Clustering on Artificial Dataset: K-Means| Affinity| Mean Shift | Spectral| Agglomerative Code
+•   [Clustering on Artificial Dataset](https://github.com/pravin-raut/MachineLearning/blob/Master/Clustering/Clustering_Analayis.ipynb): K-Means| Affinity| Mean Shift | Spectral| Agglomerative Code
 
-•   Forecasting Daily Exchange Rates between USD and Euro by exploring the Impact of Oil Prices using ARIMA, MLP,SVR  
+•   [Forecasting Daily Exchange Rates between USD and Euro by exploring the Impact of Oil Prices](https://github.com/pravin-raut/TimeSeries_USD-EUR_WithOilImpact/tree/Master#readme) : ARIMA, MLP,SVR  
 
 
 ## Data Engineering 
-•   Customer Segmentation (RFM): Databricks | PySpark |Python | K-Means 
+•   [Customer Segmentation (RFM)](https://github.com/pravin-raut/RFM_Customer_Segmenation#readme): Databricks | PySpark |Python | K-Means 
 
-•   YouTube Sentimental Analysis: YouTube API | Kafka | Databricks| PySpark | TextBlob 
+•   [YouTube Sentimental Analysis](https://github.com/pravin-raut/YoutubeSentimentalAnalysis#readme): YouTube API | Kafka | Databricks| PySpark | TextBlob 
 
-•   UK Flight Punctuality: Google cloud storage| Google Big Query | Power BI 
+•   [UK Flight Punctuality](https://github.com/pravin-raut/UK_Flight_Punctuality#readme): Google cloud storage| Google Big Query | Power BI 
 
-•   IPL Analysis: Databricks | Azure-Data Lake Gen2 | Azure Key Vault 
+•   [IPL Analysis: Databricks](https://github.com/pravin-raut/IPLAnalysisDatabricks/tree/develop#readme) : Azure-Data Lake Gen2 | Azure Key Vault 
 
-•   Stock Market: Azure-Data Lake Gen2 | Azure Key Vault | Data Factory | Synapse | Power BI | Python | Azure Functions 
+•   [Stock Market Analysis](https://github.com/pravin-raut/AzureStockMarketAnalysis/blob/Master/README.md): Azure-Data Lake Gen2 | Azure Key Vault | Data Factory | Synapse | Power BI | Python | Azure Functions 
 
 
 ## 👯 I’m looking to collaborate on anything around data
