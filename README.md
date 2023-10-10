@@ -1,7 +1,7 @@
 ### Hello Folks 👋
 
 
-### I am data engineer by profession with 9+ Years of experience(Teradata + Morgan Stanley) and a data enthusiast at heart. Currently pursuing Msc in Big Data Technology from University of Westminster.
+### I am data engineer by profession with 9+ Years of experience(Teradata + Morgan Stanley) and a data enthusiast at heart. Finished my Msc in Big Data Technology from University of Westminster.
 
 # 🔭 Technology I have worked on </font> 
  ![alt text](https://github.com/raut1606/raut1606/blob/Master/Spark.svg)
