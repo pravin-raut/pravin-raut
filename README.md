@@ -41,6 +41,6 @@
 ## 🤔 I’m looking for exciting job in Data World.
 ## 💬 Ask me anyhing anything around data 
 ## 📫 How to reach me: 
-    Email : prraut16@gmail.com
+    Email : praut16@gmail.com
     Linkedin : https://www.linkedin.com/in/pravinraut/
 
