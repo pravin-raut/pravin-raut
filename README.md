@@ -1,7 +1,7 @@
 ### Hello Folks 👋
 
 
-### I am data engineer by profession with 9+ Years of experience(Teradata + Morgan Stanley) and a data enthusiast at heart. Finished my Msc in Big Data Technology from University of Westminster.
+### I am data engineer by profession with 10+ Years of experience and a data enthusiast at heart. 
 
 # 🔭 Technology I have worked on </font> 
  ![alt text](https://github.com/raut1606/raut1606/blob/Master/Spark.svg)
@@ -14,10 +14,7 @@
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/PowerBI.png)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/Kafka.png)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/GoogleCLoud.png)
-# 🌱 I’m currently learning /exploring
-![alt text](https://github.com/raut1606/raut1606/blob/Master/Airflow.png)
 ![alt text](https://github.com/raut1606/raut1606/blob/Master/AWS.svg)
-![alt text](https://github.com/raut1606/raut1606/blob/Master/Snowflake.png)
 
 # Projects 
 ## Machine Learning
